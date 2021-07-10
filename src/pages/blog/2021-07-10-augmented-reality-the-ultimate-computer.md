@@ -9,6 +9,8 @@ featuredpost: false
 featuredimage: /img/augmented_reality.png
 tags:
   - Technology
+  - AI
+  - future
 ---
 ![AR](/img/augmented_reality.png)
 Augmented reality (AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory.
