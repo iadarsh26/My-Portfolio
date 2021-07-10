@@ -6,6 +6,11 @@ description: IoT takes the concept “internet” a step further, beyond most
   people’s use cases.
 featuredpost: true
 featuredimage: /img/iot.jpeg
+tags:
+  - IoT
+  - Automation
+  - Internet
+  - ""
 ---
 ![IoT](/img/iot.jpeg)
 
