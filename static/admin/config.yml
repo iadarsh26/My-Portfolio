@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: main
   identity_url: 'https://iadarsh.netlify.app/.netlify/identity'
   gateway_url: 'https://iadarsh.netlify.app/.netlify/git'
 
