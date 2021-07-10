@@ -10,6 +10,7 @@ featuredimage: /img/augmented_reality.png
 tags:
   - Technology
 ---
+![AR](/img/augmented_reality.png)
 Augmented reality (AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory.
 
 The primary value of augmented reality is the manner in which components of the digital world blend into a person's perception of the real world, not as a simple display of data, but through the integration of immersive sensations, which are perceived as natural parts of an environment.
