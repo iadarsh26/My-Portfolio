@@ -5,7 +5,7 @@ date: 2021-07-10T04:49:14.258Z
 description: Augmented reality (AR) is an enhanced version of the real physical
   world that is achieved through the use of digital visual elements, sound, or
   other sensory stimuli delivered via technology.
-featuredpost: true
+featuredpost: false
 featuredimage: https://www.appnovation.com/sites/default/files/2018-04/augmented_reality_1.png
 tags:
   - Technology
