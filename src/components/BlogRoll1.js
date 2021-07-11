@@ -70,7 +70,7 @@ BlogRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query BlogRollQuerynew {
+      query BlogRollQueryNew {
         allMarkdownRemark(
           limit:2,
           sort: { order: DESC, fields: [frontmatter___date] }
