@@ -10,7 +10,7 @@ import github from '../img/social/github.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="p-3 mb-0 bg-primary text-white text-center static-bottom">
+      <footer className="p-4 mb-0 bg-primary text-white text-center static-bottom">
 
         <div className="p-3 mb-0 bg-primary text-white text-center">
           <div className="p-3 mb-0 bg-primary text-white text-center">
