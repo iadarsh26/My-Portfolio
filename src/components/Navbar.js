@@ -58,19 +58,19 @@ const Navbar = class extends React.Component {
             className={`navbar-menu  ${this.state.navBarActiveClass}`}
           >
             <div className="navbar navbar-expand-lg navbar-light bg-transparent justify-content-end">
-            <Link className="navbar-item" to="/">
+            <Link className="navbar-item text-decoration-none" to="/">
                 Home
               </Link>
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item text-decoration-none" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/projects">
+              <Link className="navbar-item text-decoration-none" to="/projects">
                 Projects
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link className="navbar-item text-decoration-none" to="/blog">
                 Blog
               </Link>
-              <Link className="navbar-item" to="/contact">
+              <Link className="navbar-item text-decoration-none" to="/contact">
                 Contact
               </Link>
               
