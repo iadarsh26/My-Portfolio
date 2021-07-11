@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //import { Container } from 'react-bootstrap';
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import BlogRoll1 from '../components/BlogRoll1'
 
 export const IndexPageTemplate = ({
   title,
@@ -70,7 +70,7 @@ export const IndexPageTemplate = ({
                   </h3>
                   <hr>
                   </hr>
-                  <BlogRoll />
+                  <BlogRoll1 />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
                       Read more
