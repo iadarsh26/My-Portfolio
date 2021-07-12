@@ -98,6 +98,7 @@ export const projectPageQuery = graphql`
                 }
               }
             }
+            subheading
             text
           }
         }
