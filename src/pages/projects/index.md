@@ -2,7 +2,6 @@
 templateKey: 'project-page'
 path: /projects
 title: Project 
-image: /img/jumbotron.jpg
 
 intro:
   blurbs: 
