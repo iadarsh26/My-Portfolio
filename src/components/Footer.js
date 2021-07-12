@@ -46,7 +46,7 @@ const Footer = class extends React.Component {
             </div>
             <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Portfolio project developed under the guidance of {' '}
+          © {new Date().getFullYear()} - Portfolio project build under the guidance of {' '}
           <a className="text-decoration-none" href="https://www.agarkarmedia.com/" target="_blank" rel="noopener noreferrer">
             <span className="text-dark"> AgarkarMedia</span>
           </a>
