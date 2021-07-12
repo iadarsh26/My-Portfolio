@@ -6,7 +6,6 @@ import Features from '../components/Features'
 
 
 export const ProjectPageTemplate = ({
-  image,
   title,
   intro,
   
@@ -46,7 +45,6 @@ export const ProjectPageTemplate = ({
 )
 
 ProjectPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
@@ -59,7 +57,6 @@ const ProjectPage = ({ data }) => {
   return (
     <Layout>
       <ProjectPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
         intro={frontmatter.intro}
       />
@@ -82,13 +79,7 @@ export const projectPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        
         intro {
           blurbs {
             image {
