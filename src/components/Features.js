@@ -19,6 +19,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <p className='font-weight-bold'>{item.tags}</p>
         </section>
       </div>
     ))}
@@ -29,6 +30,7 @@ FeatureGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
       image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      tags: PropTypes.string,
       subheading: PropTypes.string,
       text: PropTypes.string,
     })
