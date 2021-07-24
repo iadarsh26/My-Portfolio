@@ -41,7 +41,9 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
-         
+         <Link to="/" className="navbar-item has-text-weight-bold is-size-3 text-decoration-none text-secondary">
+              Adarsh S.
+         </Link>
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -57,7 +59,7 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu  ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar navbar-expand-lg navbar-light bg-transparent justify-content-end">
+            <div className="navbar navbar-expand-lg navbar-light bg-transparent justify-content-end ml-auto">
             <Link className="navbar-item text-decoration-none" to="/">
                 Home
               </Link>
