@@ -45,7 +45,11 @@ const Navbar = class extends React.Component {
               Adarsh S.
          </Link>
             {/* Hamburger menu */}
-            <div
+            <div style={{
+              position: 'absolute',
+              top: '12px',
+              right: '4px',
+            }}
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               onClick={() => this.toggleHamburger()}
