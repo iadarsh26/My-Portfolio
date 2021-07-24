@@ -15,3 +15,7 @@ My technical skill set includes:- Python, Java, HTML, CSS, php, javascript, DBMS
 I am a quick learner and has been working on my programming skills and upgrading them.
 
 I like to travel. I believe travelling gives you a new perspective to everything. You get to know a lot about the different cultures, the cuisines, their history, the language and all the small unique things every place has to offer.
+
+#### Current position
+
+* Web Development Intern at AgarkarMedia.
