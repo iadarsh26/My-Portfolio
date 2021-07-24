@@ -20,8 +20,6 @@ export const ProjectPageTemplate = ({
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #0a4359, -0.5rem 0 0 #0a4359',
-          backgroundColor: '#0a4359',
           color: 'white',
           padding: '1rem',
         }}
