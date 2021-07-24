@@ -20,11 +20,9 @@ const FeatureGrid = ({ gridItems }) => (
           </div>
           <p>{item.text}</p>
           <p className='font-weight-bold'>{item.tags}</p>
-          <div className="column is-12 has-text-centered">
-            <a className="btn" href="https://github.com/iadarsh26">
+          <button style={{position:'relative', bottom:'-5px',}} className="btn"><a className="text-decoration-none" href="https://github.com/iadarsh26">
               Source Code
-            </a>
-          </div>
+            </a></button>
         </section>
       </div>
     ))}
