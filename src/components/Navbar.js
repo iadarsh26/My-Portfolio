@@ -41,9 +41,9 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >
         <div className="container">
-         <Link to="/" className="navbar-item has-text-weight-bold is-size-3 text-decoration-none text-secondary">
+         <div className="navbar-item has-text-weight-bold is-size-3 text-decoration-none text-secondary">
               Adarsh S.
-         </Link>
+         </div>
             {/* Hamburger menu */}
             <div style={{
               position: 'absolute',
