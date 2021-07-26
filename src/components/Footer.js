@@ -3,9 +3,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
-import linkedin from '../img/social/linkedin.svg'
-import twitter from '../img/social/twitter.svg'
-import github from '../img/social/github.svg'
+import linkedin from '../img/social/linkedin.png'
+import twitter from '../img/social/twitter.jpg'
+import github from '../img/social/github.png'
 
 const Footer = class extends React.Component {
   render() {
@@ -21,7 +21,7 @@ const Footer = class extends React.Component {
                   <img
                     src={linkedin}
                     alt="LinkedIn"
-                    style={{ width: '1.5em', height: '1.5em' }}
+                    style={{ width: '1.7em', height: '1.7em' }}
                   />
                 </a>
                 <a title="twitter" href="https://twitter.com/arshsingh03">
