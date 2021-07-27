@@ -1,2 +1,2 @@
 ## Portfolio build with Netlify CMS
-#### Live demo: https://iadarsh.netlify.app/
+#### Live: https://iadarsh.netlify.app/
