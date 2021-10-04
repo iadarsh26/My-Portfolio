@@ -16,6 +16,12 @@ I am a quick learner and has been working on my programming skills and upgrading
 
 I like to travel. I believe travelling gives you a new perspective to everything. You get to know a lot about the different cultures, the cuisines, their history, the language and all the small unique things every place has to offer.
 
-#### Current position
+#### Internship
 
-* Web Development Intern at AgarkarMedia.
+* ###### Web Development Intern
+
+  ###### AgarkarMedia
+
+  June 2021 - August 2021
+
+  In this 2 months of internship I build my portfolio using react and gatsby and deployed using Netlify CMS and build a project using passport authentication.
