@@ -20,7 +20,7 @@ I like to travel. I believe travelling gives you a new perspective to everything
 
 * ###### Web Development Intern
 
-  ###### AgarkarMedia
+  ###### AgarkarMedia,  Nagpur
 
   June 2021 - August 2021
 
